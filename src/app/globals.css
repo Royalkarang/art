@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.my-slider {
+    padding: 25px;
+  }
+  
+  .my-slider .swiper {
+    width: 100%;
+    padding: 0 3rem;
+  }
+  
+  .my-slider .swiper-button-prev {
+    width: 30px;
+    height: 30px;
+    left: var(--swiper-navigation-sides-offset, -8px);
+  
+    &::after {
+      font-size: 25px;
+      color: black;
+    }
+  }
+  
+  .my-slider .swiper-button-next {
+    width: 30px;
+    height: 30px;
+    right: var(--swiper-navigation-sides-offset, -8px);
+  
+    &::after {
+      font-size: 25px;
+      color: black;
+    }
+  }

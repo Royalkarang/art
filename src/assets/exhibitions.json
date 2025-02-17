@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "type": "current",
+    "imgSrc": "/exhibitions/current.png",
+    "name": "Art Vision",
+    "artistName": "Artist A, Artist B",
+    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, ",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus efficitur volutpat magna.",
+    "date": "15 FEBRUARY 2025",
+    "material": "OIL PAINT",
+    "value": "$10008.80",
+    "contact": "info@artvision.com"
+  },
+  {
+    "id": "2",
+    "type": "current",
+    "imgSrc": "/exhibitions/current2.png",
+    "name": "Modern Dreamscapes",
+    "artistName": "Artist C, Artist D",
+    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, ",
+    "about": "Aliquam sit amet orci vitae elit sollicitudin fermentum. Pellentesque vitae tempor metus.",
+    "date": "12 DECEMBER 2024",
+    "material": "ACRYLIC PAINT",
+    "value": "$15008.80",
+    "contact": "contact@dreamscapes.com"
+  },
+  {
+    "id": "3",
+    "type": "upcoming",
+    "imgSrc": "/exhibitions/upcoming1.png",
+    "name": "The Awakening",
+    "artistName": "Artist E",
+    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, ",
+    "about": "Curabitur facilisis urna libero, sed interdum magna fermentum vitae. Nulla facilisi.",
+    "date": "20 MARCH 2025",
+    "material": "MIXED MEDIA",
+    "value": "$30008.80",
+    "contact": "gallery@awakeningart.com"
+  },
+  {
+    "id": "4",
+    "type": "upcoming",
+    "imgSrc": "/exhibitions/upcoming2.png",
+    "name": "Colors of Nature",
+    "artistName": "Artist F, Artist G",
+
+    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, ",
+    "about": "Nunc feugiat purus quis libero convallis, a placerat libero tempor. Donec non tempor nisl.",
+    "date": "01 FEBRUARY 2025",
+    "material": "WATERCOLOR",
+    "value": "$8008.80",
+    "contact": "naturecolors@gmail.com"
+  },
+  {
+    "id": "5",
+    "type": "upcoming",
+    "imgSrc": "/exhibitions/upcoming3.png",
+    "name": "Futuristic Visions",
+    "artistName": "Artist H",
+
+    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, ",
+    "about": "Sed nisi nunc, sodales in ante eu, aliquet porttitor urna. Donec sed nulla at neque malesuada.",
+    "date": "10 APRIL 2025",
+    "material": "DIGITAL ART",
+    "value": "$50008.80",
+    "contact": "futuristic@visions.com"
+  },
+  {
+    "id": "6",
+    "type": "past",
+    "imgSrc": "/exhibitions/upcoming1.png",
+    "name": "The Quiet Corner",
+    "artistName": "Artist I, Artist J",
+
+    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, ",
+    "about": "Nullam pharetra mollis leo ut sollicitudin. Mauris dignissim ipsum in ante auctor tempor.",
+    "date": "25 NOVEMBER 2024",
+    "material": "CHARCOAL",
+    "value": "$12008.80",
+    "contact": "quietcorner@art.com"
+  },
+  {
+    "id": "7",
+    "type": "past",
+    "imgSrc": "/exhibitions/upcoming2.png",
+    "name": "Geometric Precision",
+    "artistName": "Artist K, Artist L",
+    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, ",
+    "about": "Quisque convallis ante ut risus cursus tincidunt. Curabitur vitae sem quis eros sollicitudin.",
+    "date": "28 JANUARY 2025",
+    "material": "MIXED MEDIA",
+    "value": "$20008.80",
+    "contact": "precision@artspace.com"
+  },
+  {
+    "id": "8",
+    "type": "past",
+    "imgSrc": "/exhibitions/upcoming3.png",
+    "name": "Silent Whispers",
+    "artistName": "Artist M",
+
+    "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, ",
+    "about": "Vestibulum erat nisl, faucibus ut placerat eget, consequat eu urna. Ut tempor ipsum ut felis.",
+    "date": "15 MAY 2025",
+    "material": "OIL PAINT",
+    "value": "$30008.80",
+    "contact": "silentwhispers@art.com"
+  }
+]

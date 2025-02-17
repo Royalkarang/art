@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1,
+    "type": "current",
+    "imgSrc": "/auctions/auction5.png",
+    "art_name": "Celestial Dance",
+    "artist_name": "Olivia Jacobs",
+    "about": "Suspendisse potenti. Integer cursus felis eu mi efficitur, nec vestibulum lorem bibendum. Vivamus in risus vehicula, mollis erat eget, ultricies justo. Curabitur hendrerit urna nec risus egestas, sed varius purus egestas.",
+    "start_date": "5 Aug 2023, 12 AM",
+    "end_date": "10 Aug 2023, 11:59 PM",
+    "estimated_value": "$2200 - $4200",
+    "sold" : false
+  },
+  {
+    "id": 2,
+    "type": "current",
+    "imgSrc": "/auctions/auction3.png",
+    "art_name": "Into the Abyss",
+    "artist_name": "Michael Owens",
+    "about": "Nulla facilisi. Etiam hendrerit ipsum in nisi venenatis, vitae sodales dolor bibendum. Aenean vehicula, eros sed tempus sollicitudin, urna felis laoreet odio, non vehicula est orci at arcu.",
+    "start_date": "10 Jan 2024, 12 AM",
+    "end_date": "15 Jan 2024, 11:59 PM",
+    "estimated_value": "$2500 - $5000",
+    "sold" : false
+  },
+  {
+    "id": 3,
+    "type": "current",
+    "imgSrc": "/auctions/auction1.png",
+    "art_name": "Blissfulness in the Dark",
+    "artist_name": "Lindsey Bayer",
+    "about": "Massa vitae tortor condimentum lacinia quis vel eros donec. In fermentum et sollicitudin ac orci phasellus egestas tellus rutrum. Congue nisi vitae suscipit tellus mauris a diam maecenas. Vestibulum morbi blandit cursus risus at ultrices mi tempus imperdiet.",
+    "start_date": "16 Jun 2022, 12 AM",
+    "end_date": "18 Jun 2022, 11:59 PM",
+    "estimated_value": "$2000 - $4000",
+    "sold" : true
+  },
+  {
+    "id": 4,
+    "type": "current",
+    "imgSrc": "/auctions/auction2.png",
+    "art_name": "Eternal Horizons",
+    "artist_name": "Sarah Mitchell",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lacinia orci nec arcu suscipit, non pretium arcu venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+    "start_date": "1 Dec 2023, 12 AM",
+    "end_date": "5 Dec 2023, 11:59 PM",
+    "estimated_value": "$1500 - $3000",
+    "sold" : false
+  },
+
+  {
+    "id": 5,
+    "type": "current",
+    "imgSrc": "/auctions/auction4.png",
+    "art_name": "Whispers of the Forest",
+    "artist_name": "Emma Collins",
+    "about": "Sed vulputate leo at magna feugiat, ac volutpat sem volutpat. Integer hendrerit lorem vitae ipsum aliquet, id laoreet felis facilisis. Nunc tristique orci vitae libero volutpat, vel auctor nisi suscipit.",
+    "start_date": "25 Apr 2023, 12 AM",
+    "end_date": "30 Apr 2023, 11:59 PM",
+    "estimated_value": "$1800 - $3500",
+    "sold" : true
+  },
+
+  {
+    "id": 6,
+    "type": "past",
+    "imgSrc": "/auctions/auction1.png",
+    "art_name": "Blissfulness in the Dark",
+    "artist_name": "Lindsey Bayer",
+    "about": "Massa vitae tortor condimentum lacinia quis vel eros donec. In fermentum et sollicitudin ac orci phasellus egestas tellus rutrum. Congue nisi vitae suscipit tellus mauris a diam maecenas. Vestibulum morbi blandit cursus risus at ultrices mi tempus imperdiet.",
+    "start_date": "16 Jun 2022, 12 AM",
+    "end_date": "18 Jun 2022, 11:59 PM",
+    "estimated_value": "$2000 - $4000",
+    "sold" : false
+
+  },
+  {
+    "id": 7,
+    "type": "past",
+    "imgSrc": "/auctions/auction2.png",
+    "art_name": "Eternal Horizons",
+    "artist_name": "Sarah Mitchell",
+    "about": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla lacinia orci nec arcu suscipit, non pretium arcu venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+    "start_date": "1 Dec 2023, 12 AM",
+    "end_date": "5 Dec 2023, 11:59 PM",
+    "estimated_value": "$1500 - $3000",
+    "sold" : false
+
+  },
+  {
+    "id": 8,
+    "type": "past",
+    "imgSrc": "/auctions/auction3.png",
+    "art_name": "Into the Abyss",
+    "artist_name": "Michael Owens",
+    "about": "Nulla facilisi. Etiam hendrerit ipsum in nisi venenatis, vitae sodales dolor bibendum. Aenean vehicula, eros sed tempus sollicitudin, urna felis laoreet odio, non vehicula est orci at arcu.",
+    "start_date": "10 Jan 2024, 12 AM",
+    "end_date": "15 Jan 2024, 11:59 PM",
+    "estimated_value": "$2500 - $5000",
+    "sold" : false
+
+  },
+  {
+    "id": 9,
+    "type": "past",
+    "imgSrc": "/auctions/auction4.png",
+    "art_name": "Whispers of the Forest",
+    "artist_name": "Emma Collins",
+    "about": "Sed vulputate leo at magna feugiat, ac volutpat sem volutpat. Integer hendrerit lorem vitae ipsum aliquet, id laoreet felis facilisis. Nunc tristique orci vitae libero volutpat, vel auctor nisi suscipit.",
+    "start_date": "25 Apr 2023, 12 AM",
+    "end_date": "30 Apr 2023, 11:59 PM",
+    "estimated_value": "$1800 - $3500",
+    "sold" : false
+
+  },
+  {
+    "id": 10,
+    "type": "past",
+    "imgSrc": "/auctions/auction5.png",
+    "art_name": "Celestial Dance",
+    "artist_name": "Olivia Jacobs",
+    "about": "Suspendisse potenti. Integer cursus felis eu mi efficitur, nec vestibulum lorem bibendum. Vivamus in risus vehicula, mollis erat eget, ultricies justo. Curabitur hendrerit urna nec risus egestas, sed varius purus egestas.",
+    "start_date": "5 Aug 2023, 12 AM",
+    "end_date": "10 Aug 2023, 11:59 PM",
+    "estimated_value": "$2200 - $4200",
+    "sold" : false
+
+  }
+]
